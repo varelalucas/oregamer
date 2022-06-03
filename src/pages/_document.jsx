@@ -50,7 +50,7 @@ export default class MyDocument extends Document {
           <meta property="og:title" content="OreGamer" />
           <meta
             property="og:description"
-            content="Eae galera beleza, me chamo Henrique, mais conhecido como "OreGamer" no YouTube, Twitch, Instagram e Twitter. Faço vídeos relacionados ao Minecraft pvp, minigames, modpacks, datapacks, videos relacionados ao minecraft" />
+            content="Eae galera beleza, me chamo Henrique, mais conhecido como OreGamer no YouTube, Twitch, Instagram e Twitter. Faço vídeos relacionados ao Minecraft pvp, minigames, modpacks, datapacks, e etc."
           />
           <meta property="og:url" content="https://oregamer.com.br/" />
           <meta property="og:type" content="website" />
@@ -60,11 +60,11 @@ export default class MyDocument extends Document {
           <meta property="twitter:card" content="summary" />
           <meta
             name="abstract"
-            content="Desenvolvedor Front-End e UX/UI Design, sempre tentando trazer inovações para meus projetos, está esperando o que? faça logo seu orçamento!"
+            content="Eae galera beleza, me chamo Henrique, mais conhecido como OreGamer no YouTube, Twitch, Instagram e Twitter. Faço vídeos relacionados ao Minecraft pvp, minigames, modpacks, datapacks, e etc."
           />
           <meta
             name="description"
-            content="Desenvolvedor Front-End e UX/UI Design, sempre tentando trazer inovações para meus projetos, está esperando o que? faça logo seu orçamento!"
+            content="Eae galera beleza, me chamo Henrique, mais conhecido como OreGamer no YouTube, Twitch, Instagram e Twitter. Faço vídeos relacionados ao Minecraft pvp, minigames, modpacks, datapacks, e etc."
           />
           <link rel="shortcut icon" href="/favicon.png" />
           <link
