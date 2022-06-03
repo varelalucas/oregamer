@@ -50,9 +50,9 @@ export default class MyDocument extends Document {
           <meta property="og:title" content="OreGamer" />
           <meta
             property="og:description"
-            content="Desenvolvedor Front-End e UX/UI Design, sempre tentando trazer inovações para meus projetos, está esperando o que? faça logo seu orçamento!"
+            content="Eae galera beleza, me chamo Henrique, mais conhecido como "OreGamer" no YouTube, Twitch, Instagram e Twitter. Faço vídeos relacionados ao Minecraft pvp, minigames, modpacks, datapacks, videos relacionados ao minecraft" />
           />
-          <meta property="og:url" content="https://lucassites.com.br/" />
+          <meta property="og:url" content="https://oregamer.com.br/" />
           <meta property="og:type" content="website" />
           <meta property="og:locale" content="pt_BR" />
           <meta property="og:image" content="/favicon.png" />
